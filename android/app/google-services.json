@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27856438720",
+    "project_id": "dtc-bus-community",
+    "storage_bucket": "dtc-bus-community.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27856438720:android:b65e603fe096eb39f6b425",
+        "android_client_info": {
+          "package_name": "com.example.dtc_bus_community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKbjA_2TXdSzDxgTWR4SMqpqjdryq4a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
